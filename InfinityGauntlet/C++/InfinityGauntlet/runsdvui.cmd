@@ -1,0 +1,2 @@
+cd /d "C:\Users\Dylan\source\repos\StoneKeeper\InfinityGauntlet\C++\InfinityGauntlet" &msbuild "InfinityGauntlet.vcxproj" /t:sdvViewer /p:configuration="Release" /p:platform="x64" /p:SolutionDir="C:\Users\Dylan\source\repos\StoneKeeper\InfinityGauntlet\C++\InfinityGauntlet" 
+exit %errorlevel% 
